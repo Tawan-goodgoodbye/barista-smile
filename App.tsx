@@ -2,7 +2,7 @@ import React, { useState, useRef, useCallback } from 'react';
 import Webcam from 'react-webcam';
 import { Camera, Sparkles, RefreshCcw, Calendar, Coffee, X } from 'lucide-react';
 import { AppState } from './types';
-import { processImage } from './services/geminiService';
+import { processImage } from './geminiService';
 import ComparisonSlider from './components/ComparisonSlider';
 import CoffeeLoader from './components/CoffeeLoader';
 
