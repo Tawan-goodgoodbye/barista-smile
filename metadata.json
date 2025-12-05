@@ -1,0 +1,7 @@
+{
+  "name": "BaristaSmile",
+  "description": "A coffee-lover focused dental app that simulates teeth whitening results using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
